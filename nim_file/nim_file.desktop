@@ -3,8 +3,7 @@ Name=Nim file
 Comment=A nim file to be used with nim/nimble projects
 Category=nim/Basic
 Language=nim
-Type=Class
-BaseClasses=
+Type=Other
 Files=Implementation,CONF
 
 [Implementation]
