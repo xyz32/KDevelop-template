@@ -2,6 +2,6 @@
 [General]
 Name=nimble basic nim project
 Comment=Creates a nimble project to be used with nim
-ShowFilesAfterGeneration=%{PROJECTDIR}/src/%{APPNAMELC}.nim
+ShowFilesAfterGeneration=%{PROJECTDIR}/src/%{APPNAME}.nim
 Category=nim/nimble
 ValidProjectName=^[a-zA-Z_][a-zA-Z0-9_]+$
