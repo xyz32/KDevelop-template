@@ -10,5 +10,6 @@
 
 proc hello() =
   echo "hello world"
-  
-hello()
+
+when isMainModule:
+  discard()
