@@ -7,6 +7,7 @@ license       = "BSD"
 
 srcDir        = "src"
 bin           = "%{APPNAMEID}"
+binDir        = "bin"
 
 [Deps]
 Requires: "nim >= 0.10.0"
