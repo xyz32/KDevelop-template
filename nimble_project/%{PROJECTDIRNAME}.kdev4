@@ -32,7 +32,7 @@ Executable=minble
 Type=1
 
 [CustomBuildSystem][BuildConfig0][ToolInstall]
-Arguments=install
+Arguments=install -y
 Enabled=true
 Environment=
 Executable=nimble
