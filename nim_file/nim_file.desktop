@@ -1,8 +1,8 @@
 [General]
 Name=Nim file
 Comment=A nim file to be used with nim/nimble projects
-Category=nim/Basic
-Language=nim
+Category=Nim/Basic File
+Language=Nim
 Type=Other
 OptionsFile=options.kcfg
 Files=Implementation,CONF
