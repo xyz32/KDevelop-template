@@ -45,6 +45,46 @@ Environment=
 Executable=
 Type=4
 
+[CustomBuildSystem][BuildConfig1]
+BuildDir=
+Title=Debug
+
+[CustomBuildSystem][BuildConfig1][ToolBuild]
+Arguments=build debugger:native
+Enabled=true
+Environment=
+Executable=nimble
+Type=0
+
+[CustomBuildSystem][BuildConfig1][ToolClean]
+Arguments=
+Enabled=false
+Environment=
+Executable=
+Type=3
+
+[CustomBuildSystem][BuildConfig1][ToolConfigure]
+Arguments=
+Enabled=false
+Environment=
+Executable=
+Type=1
+
+[CustomBuildSystem][BuildConfig1][ToolInstall]
+Arguments=
+Enabled=false
+Environment=
+Executable=
+Type=2
+
+[CustomBuildSystem][BuildConfig1][ToolPrune]
+Arguments=
+Enabled=false
+Environment=
+Executable=
+Type=4
+
+
 [Defines And Includes][Compiler]
 Name=nim
 Path=nim
