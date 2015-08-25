@@ -3,7 +3,7 @@ KDevelop nim/nimble project template
 
 See a demo here: https://vimeo.com/135918228
 
-# Install
+## Install
 - Clone (or download as a zip) the github repo.
 - Go to kdevelop -> settings -> Configure kdevelo...
 - From the left pane select "Templates".
