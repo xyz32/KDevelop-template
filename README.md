@@ -11,4 +11,4 @@ See a demo here: https://vimeo.com/135918228
 - Do the same for the "File Template" Tab but select /(...your path here...)/KDevelop-template/nim_file/nim_file.desktop
 - Now you should be able to create a new nimble project.
 
-Note that both nim and nimble have to be in your bin path. If they are not create a link to them into your home/bin folder. For example: $>ln -s /...(path to nim binary)/nim /home/myLinuxUser/bin
+Note that both nim and nimble have to be in your bin path. If they are not create a link to them into your home/bin folder. For example: $>ln -s /(...path to nim binary...)/nim /home/myLinuxUser/bin
