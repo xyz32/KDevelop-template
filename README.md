@@ -5,7 +5,7 @@ See a demo here: https://vimeo.com/135918228
 
 ## Install
 - Clone (or download as a zip) the github repo.
-- Go to kdevelop -> settings -> Configure kdevelo...
+- Go to ``kdevelop -> settings -> Configure kdevelo...``
 - From the left pane select "Templates".
 - For the Project template select the "Project Template" Tab and click on "Load template from file" and navigate to: /(...your path here...)/KDevelop-template/nimble_project/nimble_nim.kdevtemplate
 - Do the same for the "File Template" Tab but select /(...your path here...)/KDevelop-template/nim_file/nim_file.desktop
