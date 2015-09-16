@@ -13,7 +13,6 @@ See a demo here: https://vimeo.com/135918228
 
 Note that both nim and nimble have to be in your bin path. An easy way to have them available is to create a ``symlink`` inside your ``home`` ``bin`` directory:
 
-For example: 
-
 ``$>ln -s /...path to nim binary.../nim /home/...Linux User.../bin``
+
 ``$>ln -s /...path to nimble binary.../nimble /home/...Linux User.../bin``
