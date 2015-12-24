@@ -10,4 +10,4 @@ binDir        = "bin"
 bin           = "%{APPNAME}"
 
 [Deps]
-Requires: "nim >= 0.10.0"
+Requires: "nim"
