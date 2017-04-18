@@ -5,5 +5,5 @@ proc hello() {
 }
 
 when (isMainModule){
-  discard();
+  hello();
 }
