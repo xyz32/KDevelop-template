@@ -1,0 +1,8 @@
+# KDE Config File
+[General]
+Name=Nimble basic nim project using braces
+Comment=Creates a nimble project to be used with nim
+ShowFilesAfterGeneration=%{PROJECTDIR}/src/%{APPNAME}.nim
+Category=Nim/Nimble
+Language=Nim
+ValidProjectName=^[a-zA-Z_][a-zA-Z0-9_]+$
