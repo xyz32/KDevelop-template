@@ -1,0 +1,3 @@
+# rename the file to read ".gitignore"
+nimcache/
+bin/
