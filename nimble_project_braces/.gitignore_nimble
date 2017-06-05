@@ -1,0 +1,10 @@
+# rename file to read ".gitignore"
+nimcache/
+bin/
+
+#kdevelop
+.kdev4/
+
+# Swap Files #
+.*.kate-swp
+.swp.*
