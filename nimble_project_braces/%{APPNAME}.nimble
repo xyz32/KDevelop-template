@@ -14,3 +14,4 @@ requires "nim"
 task test, "Run the tester":
   withDir "tests":
     exec "nim c -r tester"
+  setCommand "nop"
