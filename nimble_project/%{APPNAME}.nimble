@@ -1,4 +1,4 @@
-#Package
+## Package
 version       = "0.1.0"
 author        = "Anonymous"
 description   = "New Nimble project for Nim"
@@ -8,8 +8,11 @@ srcDir        = "src"
 binDir        = "bin"
 bin           = @["%{APPNAME}"]
 
-# Dependencies
+## Dependencies
 requires "nim"
+
+## Set backend
+# backend = "c"
 
 task test, "Run the tester":
   withDir "tests":
