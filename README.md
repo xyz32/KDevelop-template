@@ -16,3 +16,7 @@ Note that both nim and nimble have to be in your bin path. An easy way to have t
 ``$>ln -s /...path to nim binary.../nim /home/...Linux User.../bin``
 
 ``$>ln -s /...path to nimble binary.../nimble /home/...Linux User.../bin``
+
+For syntax highliting use the kate support.
+NOTE: Starting with KDE Frameworks 5.29, KTextEditor depends on KSyntaxHighlighting. The new install path for the syntax file is:
+``$HOME/.local/share/org.kde.syntax-highlighting/syntax``
